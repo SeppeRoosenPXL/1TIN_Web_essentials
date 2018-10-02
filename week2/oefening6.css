@@ -1,0 +1,55 @@
+body {
+    background-image: url("assets/Background.png");
+    width: 2000px;
+    background-color: #cccccc;
+}
+body {
+    font-family: "Microsoft YaHei UI", "Verdana", serif;
+    color: #FAFAFA;
+    text-transform: uppercase;
+}
+
+.hightlight {
+    color: #fff600;
+    border: outset;
+    border-color: #fff600;
+    border-width: 2px;
+    text-align: center;
+    margin: 0% 20%
+}
+
+a {
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+body {
+    margin: 50px 50px 50px 50px;
+}
+
+.eend {
+    width: 200px;
+    padding: 20px;
+    border: outset;
+    margin: 35px;
+    background-color: transparent;
+    color: #FAFAFA;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+    border: solid;
+    border-radius: 40px;
+}
+h1 {
+    text-transform: uppercase;
+    color: #FAFAFA;
+    text-decoration: #FAFAFA;
+    font-weight: bolder;
+    font-size: x-large;
+    font-size: 50px;
+}
+a:hover {
+    font-size: 18px;
+    color: #FAFAFA;
+    font-weight: bold;
+}

@@ -1,0 +1,27 @@
+body {background-color: #d9ddd7;}
+body {
+    font-family: "Verdana", Verdana, serif;
+}
+h1{
+    color: #446600;
+}
+p{
+    background-color: #6a7689;
+}
+p{
+    color: #ffffff;
+}
+p {
+    padding: 20px;
+}
+.hightlight{
+    color: #fff600;
+    border: outset;
+    border-color: #fff600;
+    border-width: 2px;
+    text-align: center;
+    margin: 0% 20%
+}
+a{
+    color: white;
+}

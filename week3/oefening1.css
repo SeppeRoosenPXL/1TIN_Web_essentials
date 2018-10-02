@@ -1,0 +1,42 @@
+body {
+    font-family: "Roboto", "Verdana", serif;
+    color: #FAFAFA;
+    background-color: #c7ced8;
+    padding: 20px
+}
+
+td {
+    text-align: center;
+    border-color: black;
+    border-spacing: 0;
+}
+
+thead {
+    background: #27426d;
+}
+
+tbody {
+    background: #4f8cef;
+}
+
+tfoot {
+    background: #27426d;
+}
+
+tbody tr:nth-child(2n) {
+    background: #6facff;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+    padding: 20px;
+}
+table {
+    table-layout: fixed;
+    width: 100%
+}

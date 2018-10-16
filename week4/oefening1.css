@@ -1,0 +1,33 @@
+body {
+    font-family: "Microsoft YaHei UI", "Verdana", serif;
+    color: #FAFAFA;
+    text-transform: uppercase;
+    background-color: black;
+    padding: 50px;
+}
+h1:hover {
+    font-size: 50px;
+    color: #FAFAFA;
+    font-weight: bold;
+}
+div:hover {
+    background-color: #ffe14f;
+}
+
+h1 { text-align: center; }
+body {text-align: center;}
+
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    padding: 50px;
+    border: 5px solid#ffe14f;
+    float: left;
+    width: 25%;
+    min-width: 200px;
+}
+.div{
+    padding: 50px;
+}
